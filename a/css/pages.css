@@ -278,6 +278,8 @@
     padding: 10px 15px;
     background: #fff;
     min-height: 60%;
+	max-width: 800px;
+	margin: 0 auto;
 }
 
 .page-article-content .article-content img {
